@@ -25,7 +25,7 @@ android {
             resValue("string","app_name","Mesa turnip 26.2.5")
             //包名后缀
             //package name Suffix
-            applicationIdSuffix = ".mesaturnip.26.2.5"
+            applicationIdSuffix = ".mesaturnip2625"
 
             //驱动在启动器内显示的名称
             //The name displayed by the driver in the launcher
