@@ -1,11 +1,11 @@
-# Stable Turnip V2 sync
+# Mesa turnip 26.2.5
 switch branch to see other driver ok😁
 
 Ive been modified FCLDriverPlugin
 * source android app
 https://github.com/FCL-Team/FCLDriverPlugin
 * source driver
-https://github.com/whitebelyash/AdrenoToolsDrivers
+https://github.com/nihui/mesa-turnip-android-driver)
 
 ⚠️⚠️every problem caused by this app is not their responsibility, included me⚠️⚠️
 
