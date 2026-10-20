@@ -22,14 +22,14 @@ android {
         configureEach {
             //应用名
             //app name
-            resValue("string","app_name","Sta v2 sync")
+            resValue("string","app_name","Stable turnip v2 sync")
             //包名后缀
             //package name Suffix
-            applicationIdSuffix = ".stav2sync"
+            applicationIdSuffix = ".stuv2sync"
 
             //驱动在启动器内显示的名称
             //The name displayed by the driver in the launcher
-            manifestPlaceholders["driver"] = "Sta v2 sync"
+            manifestPlaceholders["driver"] = "Stable turnip v2 sync"
             //驱动库文件名（须存在于 src/main/jniLibs/<abi>/ 下）
             //Driver library file name (must exist under src/main/jniLibs/<abi>/)
             manifestPlaceholders["driverLib"] = "libvulkan_freedreno.so"
